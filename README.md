@@ -80,3 +80,5 @@ cd beer-consumption-analysis
 pip install -r requirements.txt
 jupyter notebook beer_sp_br_consumption.ipynb
 ```
+
+Also, you can run directly in Kaggle: https://www.kaggle.com/code/damico/beer-consumption-analysis
