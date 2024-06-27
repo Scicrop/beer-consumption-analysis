@@ -75,7 +75,8 @@ The models were evaluated using metrics such as Mean Squared Error (MSE) and R-s
 To run the analysis, clone this repository and execute the notebook:
 
 ```bash
-git clone https://github.com/yourusername/beer-consumption-analysis.git
+git clone https://github.com/scicrop/beer-consumption-analysis.git
 cd beer-consumption-analysis
+pip install -r requirements.txt
 jupyter notebook beer_sp_br_consumption.ipynb
 ```
