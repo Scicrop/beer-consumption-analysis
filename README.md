@@ -25,7 +25,7 @@ The dataset used in this analysis includes the following features:
 - **Is Holiday**: Whether the day is a holiday (1) or not (0).
 - **Has Match**: Whether there was a sports match on the given day (1) or not (0).
 - **Match Type**: The type of match if there was a match.
-- **Is Corinthians, Is São Paulo, etc.**: Indicators for specific football teams.
+- **Is Corinthians, Is São Paulo, etc.**: Indicators for specific soccer teams.
 
 ## Tools and Libraries
 
